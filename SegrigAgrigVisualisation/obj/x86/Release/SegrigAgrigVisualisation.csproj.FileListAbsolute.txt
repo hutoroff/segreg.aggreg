@@ -1,0 +1,8 @@
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\bin\Release\SegrigAgrigVisualisation.exe
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\bin\Release\SegrigAgrigVisualisation.pdb
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.Form1.resources
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.Properties.Resources.resources
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.exe
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.pdb
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.csprojResolveAssemblyReference.cache
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Release\SegrigAgrigVisualisation.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\SegrigAgrigVisualisation.Form1.resources
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\SegrigAgrigVisualisation.Properties.Resources.resources
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\bin\Debug\SegrigAgrigVisualisation.exe
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\bin\Debug\SegrigAgrigVisualisation.pdb
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\SegrigAgrigVisualisation.exe
+D:\Sources\МТУСИ\СиАОД\SegrigAgrigVisualisation\SegrigAgrigVisualisation\obj\x86\Debug\SegrigAgrigVisualisation.pdb

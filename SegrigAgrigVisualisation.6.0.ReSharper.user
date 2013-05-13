@@ -1,0 +1,239 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2968" fromTop="16" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleA.cs" caret="904" fromTop="14" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="1010" fromTop="36" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleS.cs" caret="343" fromTop="0" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Field.cs" caret="2952" fromTop="97" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="3034" fromTop="15" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="3651" fromTop="13" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="3583" fromTop="8" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="20603" fromTop="8" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="1388" fromTop="10" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2069" fromTop="12" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2070" fromTop="18" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2632" fromTop="16" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2186" fromTop="8" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleA.cs" caret="638" fromTop="9" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="5593" fromTop="17" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="4957" fromTop="0" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="5262" fromTop="0" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="6060" fromTop="17" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="1470" fromTop="6" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="6825" fromTop="13" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="6811" fromTop="18" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="3334" fromTop="13" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="2968" fromTop="16" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Form1.cs" caret="6849" fromTop="16" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Field.cs" caret="2879" fromTop="101" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Field.cs" caret="2709" fromTop="14" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="2602" fromTop="8" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Field.cs" caret="4263" fromTop="10" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleS.cs" caret="731" fromTop="12" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleS.cs" caret="178" fromTop="9" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleA.cs" caret="240" fromTop="11" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:ParicleA.cs" caret="904" fromTop="14" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:FieldA.cs" caret="4434" fromTop="9" />
+      <File id="4869F60F-A993-4970-8F4E-139DFA99BED9/f:Field.cs" caret="2583" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="Application`0" priority="31" />
+      <Item value="particleLabel" priority="95" />
+      <Item value="trackBar1" priority="351" />
+      <Item value="Convert`0" priority="223" />
+      <Item value="fieldLabel" priority="31" />
+      <Item value="trackBar2" priority="127" />
+      <Item value="pictureBox1" priority="255" />
+      <Item value="Field`0" priority="31" />
+      <Item value="false" priority="351" />
+      <Item value="f" priority="319" />
+      <Item value="new" priority="159" />
+      <Item value="Field" priority="28" />
+      <Item value="true" priority="287" />
+      <Item value="String`0" priority="63" />
+      <Item value="null" priority="127" />
+      <Item value="if" priority="767" />
+      <Item value="radioButton1" priority="63" />
+      <Item value="else" priority="287" />
+      <Item value="private" priority="63" />
+      <Item value="FieldA`0" priority="31" />
+      <Item value="bool" priority="95" />
+      <Item value="rbc" priority="159" />
+      <Item value="fA" priority="159" />
+      <Item value="pd" priority="95" />
+      <Item value="radioButton2" priority="31" />
+      <Item value="int" priority="255" />
+      <Item value="for" priority="607" />
+      <Item value="var" priority="31" />
+      <Item value="i" priority="383" />
+      <Item value="wall" priority="672" />
+      <Item value="_h" priority="64" />
+      <Item value="width" priority="63" />
+      <Item value="_w" priority="31" />
+      <Item value="height" priority="63" />
+      <Item value="Brush`0" priority="95" />
+      <Item value="kX" priority="611" />
+      <Item value="kY" priority="611" />
+      <Item value="KeyValuePair" priority="31" />
+      <Item value="p" priority="255" />
+      <Item value="Vector`0" priority="31" />
+      <Item value="parts" priority="63" />
+      <Item value="return" priority="95" />
+      <Item value="oldV" priority="223" />
+      <Item value="feelWall`0" priority="62" />
+      <Item value="v" priority="319" />
+      <Item value="Void`0" priority="31" />
+      <Item value="e" priority="31" />
+      <Item value="Pens`0" priority="31" />
+      <Item value="grid_step" priority="95" />
+      <Item value="Pen`0" priority="63" />
+      <Item value="Pen" priority="57" />
+      <Item value="Color`0" priority="63" />
+      <Item value="b" priority="31" />
+      <Item value="countC" priority="95" />
+      <Item value="countL" priority="31" />
+      <Item value="countT" priority="31" />
+      <Item value="textCur1" priority="63" />
+      <Item value="countC1" priority="95" />
+      <Item value="countC2" priority="95" />
+      <Item value="countL1" priority="95" />
+      <Item value="countL2" priority="95" />
+      <Item value="countT1" priority="31" />
+      <Item value="countT2" priority="31" />
+      <Item value="textCur2" priority="31" />
+      <Item value="textLast1" priority="31" />
+      <Item value="textTotal1" priority="31" />
+      <Item value="isCnt1" priority="31" />
+      <Item value="isCnt2" priority="31" />
+      <Item value="label8" priority="31" />
+      <Item value="label7" priority="31" />
+      <Item value="label3" priority="31" />
+      <Item value="label4" priority="31" />
+      <Item value="checkBox1" priority="159" />
+      <Item value="Form1`0" priority="31" />
+      <Item value="this" priority="63" />
+      <Item value="timer1" priority="287" />
+      <Item value="butPause" priority="159" />
+      <Item value="public" priority="63" />
+      <Item value="col" priority="63" />
+      <Item value="Y" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="215" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TrackBar">
+      <Item value="Value" priority="215" />
+      <Item value="Enabled" priority="107" />
+      <Item value="Visible" priority="108" />
+      <Item value="Maximum" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Refresh`0" priority="53" />
+      <Item value="Width" priority="53" />
+      <Item value="Height" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Pens">
+      <Item value="Gray" priority="55" />
+      <Item value="LightGray" priority="26" />
+      <Item value="Fuchsia" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SegrigAgrigVisualisation.Field">
+      <Item value="Move`0" priority="26" />
+      <Item value="countC1" priority="26" />
+      <Item value="countC2" priority="26" />
+      <Item value="countL1" priority="26" />
+      <Item value="countT1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Concat`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Concat`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="26" />
+      <Item value="Enabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SegrigAgrigVisualisation.FieldA">
+      <Item value="Move`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SegrigAgrigVisualisation.ParicleS">
+      <Item value="X" priority="26" />
+      <Item value="Y" priority="26" />
+      <Item value="isCnt1" priority="53" />
+      <Item value="isCnt2" priority="53" />
+      <Item value="col" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Vector">
+      <Item value="X" priority="134" />
+      <Item value="Y" priority="323" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PaintEventArgs">
+      <Item value="Graphics" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="DrawLine`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Fuchsia" priority="26" />
+      <Item value="Blue" priority="26" />
+      <Item value="Green" priority="26" />
+      <Item value="Red" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Visible" priority="53" />
+      <Item value="Checked" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SegrigAgrigVisualisation.Form1">
+      <Item value="Height" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="161" />
+      <Item value="Stop`0" priority="53" />
+      <Item value="Enabled" priority="27" />
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Text" priority="53" />
+      <Item value="Visible" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SegrigAgrigVisualisation.ParicleA">
+      <Item value="col" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
